@@ -1,0 +1,24 @@
+body {
+	
+}
+
+.topHeader{
+	background-color: #222;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.topHeader ul{
+	margin:0px auto;
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+
+.column {
+	border:1px solid black;
+}
+
+.jumbotron{
+
+	background-color: #f5f5f5;
+}
